@@ -6,7 +6,6 @@ This project implements and analyzes multiple optimization techniques to minimiz
 We explore:
 - A closed-form solution via Karush–Kuhn–Tucker (KKT) conditions,
 - Projected Gradient Descent (PGD),
-- Exponential Gradient Descent (EGD), and
 - Accelerated Gradient Descent (AGD).
 
 The data for hourly electricity prices and EV charging sessions is sourced from public datasets.
